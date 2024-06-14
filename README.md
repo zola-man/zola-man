@@ -12,8 +12,8 @@ My passion lies in research, and I possess a strong foundation and practical exp
 
 **Research Experience**
 
-* **Graduate Thesis:** Conducted in-depth research on [**AMHARIC SIGN LANGUAGE TO TEXT TRANSLATION USING IMAGE PROCESSING AND MACHINE LEARNING**] (link to detailed description/repository, if applicable), achieving high grades. ‍
-* **Internship Projects:** Successfully resolved and reported the issue with using FTP to access file systems on the intranet of Ethio Telecom (link to project details, if applicable).  [Achievement Badge from online service]
+* **Graduate Thesis:** Conducted in-depth research on [**AMHARIC SIGN LANGUAGE TO TEXT TRANSLATION USING IMAGE PROCESSING AND MACHINE LEARNING**], achieving high grades. ‍
+* **Internship Projects:** Successfully resolved and reported the issue with using FTP to access file systems on the intranet of Ethio Telecom.
 * **Literature Reviews:** Proficient in conducting comprehensive surveys of prior research and creating informative literature reports on the domain of Electrical and Computer Engineering. 
 
 **Areas of Interest**
@@ -22,22 +22,20 @@ My passion lies in research, and I possess a strong foundation and practical exp
 * Machine Learning applications in network and security optimization 
 * Secure communication protocols for IoT devices 
 
-**Looking Forward** ()
+**Looking Forward**
 
 I'm actively seeking research opportunities to leverage my technical expertise and research experience. Feel free to reach out if you have any projects or collaborations that align with my interests!
 
 **Additional Information**
 
-* **Publications (if applicable):** Briefly list any research publications you have authored or co-authored.
-* **Open Source Contributions (if applicable):** Mention any contributions you've made to open-source projects, demonstrating your collaborative spirit.
+* **Publications**
+* **Open Source Contributions**
 
 **Contact**
 
 * Email: [zadugnaw8@gmail.com]
 * LinkedIn: [linkedin.com/in/zelalem-adugnaw-b9b709185]
 
-**Portfolio:** (link to your online portfolio, if applicable)
+**Portfolio:**
 
-**Note:**
 
-* I've replaced `[**AMHARIC SIGN LANGUAGE TO TEXT TRANSLATION USING IMAGE PROCESSING AND MACHINE LEARNING**]` with a placeholder. Please replace it with the actual subject of your graduate thesis.

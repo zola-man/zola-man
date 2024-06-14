@@ -32,6 +32,5 @@ I'm actively seeking research opportunities to leverage my technical expertise a
 **Contact**
 
 * Email: [zadugnaw8@gmail.com]
-* Email: [zadugnaw8@gmail.comlinkedin.com/in/zelalem-adugnaw-b9b709185]
-* LinkedIn: [(linkedin.com/in/zelalem-adugnaw-b9b709185)]
+* LinkedIn: [linkedin.com/in/zelalem-adugnaw-b9b709185]
 

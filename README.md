@@ -1,4 +1,5 @@
-# Zelalem - Network & Cybersecurity Pre-Sales Engineer, Aspiring Researcher, Cyber Enthusiast ️‍♂️ 
+# Hi there I am Zelalem
+## Network & Cybersecurity Pre-Sales Engineer, Aspiring Researcher, Cyber Enthusiast 
 
 Hi! I'm Zelalem, a recent graduate from Addis Ababa Science and Technology University with a Bachelor's degree in Electrical and Computer Engineering (Electronic Communication Focus). Currently, I'm pursuing a Master's degree in the same field, awarded the opportunity to continue my studies after demonstrating exceptional performance in my undergraduate years.
 

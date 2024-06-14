@@ -6,19 +6,19 @@ My passion lies in research, and I possess a strong foundation and practical exp
 
 **Technical Skills**
 
-* **Programming Languages:** Python (熟練 / jukuren - Proficient), Anaconda, C, C++, MATLAB, Java
+* **Programming Languages:** Python, Anaconda, C, C++, MATLAB, Java
 * **Hardware/Software:** Arduino, Internet of Things (IoT)
-* **Network & Security:** Networking fundamentals, Digital Communication Systems, Cybersecurity concepts
+* **Network & Security:** Advanced Networking, Digital Communication Systems, Cybersecurity concepts
 
 **Research Experience**
 
-* **Graduate Thesis:** Conducted in-depth research on [**Thesis Topic**] (mention specific area within Electrical and Computer Engineering), achieving high grades.
-* **Internship Projects:** Successfully completed internship projects demonstrating my research capabilities.
-* **Literature Reviews:** Proficient in conducting comprehensive surveys of prior research and creating informative literature reports.
+* **Graduate Thesis:** Conducted in-depth research on [**AMHARIC SIGN LANGUAGE TO TEXT TRANSLATION USING IMAGE PROCESSING AND MACHINE LEARNING**], achieving high grades.
+* **Internship Projects:** completed internship project successfully by resolving and reporting the issue with using FTP to access file systems on the intranet of Ethio Telecom.
+* **Literature Reviews:** Proficient in conducting comprehensive surveys of prior research and creating informative literature reports on the domain of Electrical and Computer Engineering.
 
 **Areas of Interest**
 
-* (List 2-3 specific research areas within Electrical and Computer Engineering or related fields that align with your skills and goals. Examples: Machine Learning applications in network optimization, Secure communication protocols for IoT devices, etc.)
+* Applications of Cybersecurity in Keeping Safe threat landscape of IoT devices,Machine Learning applications in network and security optimization, Secure communication protocols for IoT devices
 
 **Looking Forward**
 

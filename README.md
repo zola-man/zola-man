@@ -31,21 +31,6 @@ I'm actively seeking research opportunities to leverage my technical expertise a
 
 **Contact**
 
-* Email: [your_email@example.com]
-* LinkedIn: [your_LinkedIn_profile_URL]
+* Email: [zadugnaw8@gmail.com]
+* LinkedIn: [linkedin.com/in/zelalem-adugnaw-b9b709185]
 
-**Note:**
-
-* I've replaced `[**Thesis Topic**]` with a placeholder. Please replace it with the actual subject of your graduate thesis.
-* Consider including a link to your online portfolio (if you have one) for showcasing your research work.
-
-
-**Explanation of Enhancements:**
-
-* **Clear and Concise Structure:** The README is well-organized, with sections dedicated to your background, skills, research experience, research interests, and contact information.
-* **Highlighting Research Potential:** The focus is on showcasing your research experience and skills, making it clear that you're actively seeking research opportunities.
-* **Specificity:** The inclusion of a specific programming language proficiency level (`熟練 / jukuren - Proficient`) and a placeholder for your thesis topic adds a personal touch.
-* **Actionable Contact Information:** Your email and LinkedIn profile URL make it easy for potential research collaborators to connect with you.
-* **Optional Additions:** Consider incorporating information on publications and open-source contributions to further strengthen your profile.
-
-By incorporating these enhancements, this README.md effectively presents your research capabilities and increases your chances of securing research opportunities that align with your goals.

@@ -7,8 +7,8 @@ My passion lies in research, and I possess a strong foundation and practical exp
 
 **Technical Skills**
 
-* 💻 **Programming Languages:** Python, Anaconda, C, C++, MATLAB, Java
-* 📲 **Hardware/Software:** Arduino, Internet of Things (IoT)
+  * 💻 **Programming Languages:** Python, Anaconda, C, C++, MATLAB, Java
+  * 📲 **Hardware/Software:** Arduino, Internet of Things (IoT)
 * ☠💻🔑🛡**Network & Security:** Advanced Networking, Digital Communication Systems, Cybersecurity concepts 
 
 **Research Experience**

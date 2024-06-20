@@ -30,8 +30,10 @@ I'm actively seeking research opportunities to leverage my technical expertise a
 **Additional Information**
 
 * **Publications**
+          * Working on Rateless Space Time Block Codes
+          * Working on ASL Real Time Translation
 * **Open Source Contributions**
-*     FIR-IIR Digital Filter Design using Jupyter Notebook
+          * FIR-IIR Digital Filter Design using Jupyter Notebook
 
 **Contact**
 

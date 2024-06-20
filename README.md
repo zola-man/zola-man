@@ -8,12 +8,12 @@ My passion lies in research, and I possess a strong foundation and practical exp
 **Technical Skills**
 
 * 💻 **Programming Languages:** Python, Anaconda, C, C++, MATLAB, Java
-* **Hardware/Software:** Arduino, Internet of Things (IoT)
-* **Network & Security:** Advanced Networking, Digital Communication Systems, Cybersecurity concepts 
+* 📲 **Hardware/Software:** Arduino, Internet of Things (IoT)
+* ☠💻🔑🛡**Network & Security:** Advanced Networking, Digital Communication Systems, Cybersecurity concepts 
 
 **Research Experience**
 
-* **Graduate Thesis:** Conducted in-depth research on [**AMHARIC SIGN LANGUAGE TO TEXT TRANSLATION USING IMAGE PROCESSING AND MACHINE LEARNING**], achieving high grades. ‍
+* **Graduate Thesis:** Conducted in-depth research on **AMHARIC SIGN LANGUAGE TO TEXT TRANSLATION USING IMAGE PROCESSING AND MACHINE LEARNING**, achieving high grades. ‍
 * **Internship Projects:** Successfully resolved and reported the issue with using FTP to access file systems on the intranet of Ethio Telecom.
 * **Literature Reviews:** Proficient in conducting comprehensive surveys of prior research and creating informative literature reports on the domain of Electrical and Computer Engineering. 
 
@@ -31,6 +31,7 @@ I'm actively seeking research opportunities to leverage my technical expertise a
 
 * **Publications**
 * **Open Source Contributions**
+*     FIR-IIR Digital Filter Design using Jupyter Notebook
 
 **Contact**
 

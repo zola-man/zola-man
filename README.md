@@ -41,5 +41,5 @@ I'm actively seeking research opportunities to leverage my technical expertise a
 * LinkedIn: [linkedin.com/in/zelalem-adugnaw-b9b709185]
 
 **Portfolio:**
-Comming soon
+* Link: https://zelalem.my.canva.site/
 

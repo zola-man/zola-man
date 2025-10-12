@@ -1,5 +1,5 @@
 # Hi there I am Zelalem
-## Network & Cybersecurity Pre-Sales Engineer, Aspiring Researcher, Cyber Enthusiast 
+## Network & Cybersecurity Engineer, Aspiring Researcher, Cyber Enthusiast 
 
 Hi! I'm Zelalem, a recent graduate from Addis Ababa Science and Technology University with a Bachelor's degree in Electrical and Computer Engineering (Electronic Communication Focus). Currently, I'm pursuing a Master's degree in the same field, awarded the opportunity to continue my studies after demonstrating exceptional performance in my undergraduate years.
 
@@ -7,7 +7,7 @@ My passion lies in research, and I possess a strong foundation and practical exp
 
 **Technical Skills**
 
-  * 💻 **Programming Languages:** Python, Anaconda, C, C++, MATLAB, Java
+  * 💻 **Programming Languages:** Python, C, C++, MATLAB, Java
   * 📲 **Hardware/Software:** Arduino, Internet of Things (IoT)
 * ☠💻🔑🛡**Network & Security:** Advanced Networking, Digital Communication Systems, Cybersecurity concepts 
 

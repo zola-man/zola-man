@@ -14,7 +14,7 @@ My passion lies in research, and I possess a strong foundation and practical exp
   * 📲 **Hardware/Software:** Arduino, Internet of Things (IoT)
 * ☠💻🔑🛡**Network & Security:** Advanced Networking, Digital Communication Systems, Cybersecurity concepts 
 
-* **Publications**
+ **Publications**
 
 * Robust Rateless Space Time Block Coding for mmWave Massive MIMO System 
 o Primary Author 

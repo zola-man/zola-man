@@ -15,12 +15,14 @@ My passion lies in research, and I possess a strong foundation and practical exp
 * ☠💻🔑🛡**Network & Security:** Advanced Networking, Digital Communication Systems, Cybersecurity concepts 
 
 * **Publications**
- Robust Rateless Space Time Block Coding for mmWave Massive MIMO System 
+
+* Robust Rateless Space Time Block Coding for mmWave Massive MIMO System 
 o Primary Author 
 o Published at Heliyon on Nov 15, 2024 
 o Contributed in extending STBC into ROSTBC for mmWave massive MIMO, enabling dynamic rate adaptation to channel 
 conditions and achieving up to 8.5% performance improvement over static OSTBCs in low-SNR environments. 
-• A Robust Pilot Decontamination Scheme in Massive MIMO Systems: Integrating Rateless Orthogonal STBC, Weighted Graph 
+
+* A Robust Pilot Decontamination Scheme in Massive MIMO Systems: Integrating Rateless Orthogonal STBC, Weighted Graph 
 Coloring, and Channel Estimation 
 o Co-Authored 
 o Published at IEEE on May 26, 2025 

@@ -1,7 +1,10 @@
 # Hi there I am Zelalem
-## Network & Cybersecurity Engineer, Aspiring Researcher, Cyber Enthusiast 
+## Cyber Security Engineer, Aspiring Researcher, Cyber Enthusiast 
 
-Hi! I'm Zelalem, a recent graduate from Addis Ababa Science and Technology University with a Bachelor's degree in Electrical and Computer Engineering (Electronic Communication Focus). Currently, I'm pursuing a Master's degree in the same field, awarded the opportunity to continue my studies after demonstrating exceptional performance in my undergraduate years.
+I am a results-driven professional with a strong foundation in Electrical and Computer Engineering, specializing in Communication Systems 
+and professionally focused on Cybersecurity. My passion lies in securing AI and machine learning systems, cryptography, and insuring data 
+privacy to strengthen the security of large-scale communication networks. I aim to advance knowledge and research that builds trustworthy 
+and resilient intelligent systems for future digital infrastructures. 
 
 My passion lies in research, and I possess a strong foundation and practical experience to excel in this domain. 
 
@@ -10,6 +13,19 @@ My passion lies in research, and I possess a strong foundation and practical exp
   * 💻 **Programming Languages:** Python, C, C++, MATLAB, Java
   * 📲 **Hardware/Software:** Arduino, Internet of Things (IoT)
 * ☠💻🔑🛡**Network & Security:** Advanced Networking, Digital Communication Systems, Cybersecurity concepts 
+
+* **Publications**
+ Robust Rateless Space Time Block Coding for mmWave Massive MIMO System 
+o Primary Author 
+o Published at Heliyon on Nov 15, 2024 
+o Contributed in extending STBC into ROSTBC for mmWave massive MIMO, enabling dynamic rate adaptation to channel 
+conditions and achieving up to 8.5% performance improvement over static OSTBCs in low-SNR environments. 
+• A Robust Pilot Decontamination Scheme in Massive MIMO Systems: Integrating Rateless Orthogonal STBC, Weighted Graph 
+Coloring, and Channel Estimation 
+o Co-Authored 
+o Published at IEEE on May 26, 2025 
+o Developed a hybrid framework integrating ROSTBC, WGCPA, and MLE, which significantly improved pilot contamination 
+mitigation and channel estimation accuracy in Massive MIMO systems.
 
 **Research Experience**
 
@@ -29,17 +45,14 @@ I'm actively seeking research opportunities to leverage my technical expertise a
 
 **Additional Information**
 
-* **Publications**
-          * Working on Rateless Space Time Block Codes
-          * Working on ASL Real Time Translation
 * **Open Source Contributions**
           * FIR-IIR Digital Filter Design using Jupyter Notebook
+  
 
 **Contact**
 
 * Email: [zadugnaw8@gmail.com]
 * LinkedIn: [linkedin.com/in/zelalem-adugnaw-b9b709185]
 
-**Portfolio:**
-* Link: https://zelalem.my.canva.site/
+
 

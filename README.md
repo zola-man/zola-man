@@ -1,9 +1,8 @@
 # Hi there I am Zelalem
-## Cyber Security Engineer, Aspiring Researcher, Cyber Enthusiast 
+## Cyber Security Engineer, Aspiring Researcher, Research Enthusiast 
 
 I am a results-driven professional with a strong foundation in Electrical and Computer Engineering, specializing in Communication Systems 
-and professionally focused on Cybersecurity. My passion lies in securing AI and machine learning systems, cryptography, and insuring data 
-privacy to strengthen the security of large-scale communication networks. I aim to advance knowledge and research that builds trustworthy 
+and professionally focused on Cybersecurity. My passion lies in Communication Systems (Massive MIMO, mmWave, Wireless Networks, Channel Estimation and Coding), Application of AI/ML on NextG Wireless Networks and Security, Applications of physical layer security in wireless networks, ISAC Systems, cryptography, and insuring data privacy to strengthen the security of large-scale communication networks. I aim to advance knowledge and research that builds trustworthy 
 and resilient intelligent systems for future digital infrastructures. 
 
 My passion lies in research, and I possess a strong foundation and practical experience to excel in this domain. 
@@ -11,7 +10,7 @@ My passion lies in research, and I possess a strong foundation and practical exp
 **Technical Skills**
 
   * 💻 **Programming Languages:** Python, C, C++, MATLAB, Java
-  * 📲 **Hardware/Software:** Arduino, Internet of Things (IoT)
+  * 📲 **Hardware/Software:** Arduino, Internet of Things (IoT), Systems
 * ☠💻🔑🛡**Network & Security:** Advanced Networking, Digital Communication Systems, Cybersecurity concepts 
 
  **Publications**
@@ -24,7 +23,7 @@ conditions and achieving up to 8.5% performance improvement over static OSTBCs i
 
 * A Robust Pilot Decontamination Scheme in Massive MIMO Systems: Integrating Rateless Orthogonal STBC, Weighted Graph 
 Coloring, and Channel Estimation 
-o Co-Authored 
+o Second Author 
 o Published at IEEE on May 26, 2025 
 o Developed a hybrid framework integrating ROSTBC, WGCPA, and MLE, which significantly improved pilot contamination 
 mitigation and channel estimation accuracy in Massive MIMO systems.
@@ -37,6 +36,9 @@ mitigation and channel estimation accuracy in Massive MIMO systems.
 
 **Areas of Interest**
 
+* Communication Systems (Massive MIMO, mmWave, Wireless Networks, Channel Estimation and Coding)
+* AI/ML Applications in Communication systems and Wireless Security
+* Integrated Sennsing and Communication (ISAC)
 * Applications of Cybersecurity in Keeping Safe the threat landscape of IoT devices ️ 
 * Machine Learning applications in network and security optimization 
 * Secure communication protocols for IoT devices 

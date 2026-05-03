@@ -1,11 +1,10 @@
 # Hi there I am Zelalem
 ## Cyber Security Engineer, Aspiring Researcher, Research Enthusiast 
 
-I am a results-driven professional with a strong foundation in Electrical and Computer Engineering, specializing in Communication Systems 
-and professionally focused on Cybersecurity. My passion lies in Communication Systems (Massive MIMO, mmWave, Wireless Networks, Channel Estimation and Coding), Application of AI/ML on NextG Wireless Networks and Security, Applications of physical layer security in wireless networks, ISAC Systems, cryptography, and insuring data privacy to strengthen the security of large-scale communication networks. I aim to advance knowledge and research that builds trustworthy 
-and resilient intelligent systems for future digital infrastructures. 
+Acedmically I am a researcher with strong backround in Electrical and Computer Engineering, specializing in Communication Systems 
+and professionally focused on Cybersecurity. My passion lies in research topics of Communication Systems (Massive MIMO, mmWave, Wireless Networks, Channel Estimation and Coding), Application of AI/ML on NextG Wireless Networks and Security, Applications of physical layer security in wireless networks, ISAC Systems, cryptography, and insuring data privacy to strengthen the security of large-scale communication networks. I aim to advance knowledge and research that builds trustworthy and resilient intelligent systems for future digital infrastructures. 
 
-My passion lies in research, and I possess a strong foundation and practical experience to excel in this domain. 
+
 
 **Technical Skills**
 

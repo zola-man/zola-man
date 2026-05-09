@@ -8,7 +8,7 @@ and professionally focused on Cybersecurity. My passion lies in research topics 
 
 **Technical Skills**
 
-  * 💻 **Programming Languages:** Python, C, C++, MATLAB, Java
+  * 💻 **Programming Languages:** Python, C, C++, MATLAB, Java, Jupyter notebook, pytorch, Tensorflow
   * 📲 **Hardware/Software:** Arduino, Internet of Things (IoT), Systems
 * ☠💻🔑🛡**Network & Security:** Advanced Networking, Digital Communication Systems, Cybersecurity concepts 
 

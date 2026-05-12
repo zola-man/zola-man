@@ -16,11 +16,11 @@ My current research interests include security of wireless sensing and IoT syste
 
 ## Publications
 
-** [1] Robust Rateless Space Time Block Coding for mmWave Massive MIMO System**
+**[1] Robust Rateless Space Time Block Coding for mmWave Massive MIMO System**
 Primary Author | Heliyon, Nov 2024 | [DOI: 10.1016/j.heliyon.2024.e40114](https://doi.org/10.1016/j.heliyon.2024.e40114)
 Extended STBC into ROSTBC for mmWave massive MIMO, enabling dynamic rate adaptation to channel conditions and achieving up to 8.5% performance improvement over static OSTBCs in low-SNR environments.
 
-** [2] A Robust Pilot Decontamination Scheme in Massive MIMO Systems: Integrating Rateless Orthogonal STBC, Weighted Graph Coloring, and Channel Estimation**
+**[2] A Robust Pilot Decontamination Scheme in Massive MIMO Systems: Integrating Rateless Orthogonal STBC, Weighted Graph Coloring, and Channel Estimation**
 Second Author | IEEE Access, May 2025 | [DOI: 10.1109/ACCESS.2025.3573689](https://doi.org/10.1109/ACCESS.2025.3573689)
 Developed a hybrid framework integrating ROSTBC, WGCPA, and MLE to improve pilot contamination mitigation and channel estimation accuracy in Massive MIMO systems.
 

@@ -61,16 +61,6 @@ CompTIA Security+ | CCNP Firepower | PJPT | Fortinet NSE 1-6 | GCP Cloud Archite
 
 ---
 
-## Research Interests
-
-- Physical-layer security and authentication in wireless sensing systems
-- Adversarial and backdoor attacks against mmWave and IoT sensing classifiers
-- Reconfigurable Intelligent Surfaces (RIS) for secure FutureG communication
-- Spectrum anomaly detection and monitoring
-- IoT device security and sensing-based authentication
-
----
-
 ## Contact
 
 [zadugnaw8@gmail.com](mailto:zadugnaw8@gmail.com) | [LinkedIn](https://www.linkedin.com/in/zelalem-adugnaw-b9b709185)

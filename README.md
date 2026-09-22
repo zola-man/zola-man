@@ -8,9 +8,9 @@ Addis Ababa, Ethiopia | [zadugnaw8@gmail.com](mailto:zadugnaw8@gmail.com) | [Lin
 
 ## About
 
-I am an Electrical and Computer Engineering researcher with a specialization in Communication Systems and three years of professional experience in cybersecurity engineering. My work sits at the intersection of wireless communications (mmWave/tetrahertz, ROSTBC, pilot decontamination, channel coding), applied cybersecurity, and machine learning, with a focus on the security of wireless sensing systems and next-generation networks.
+I am an Electrical and Computer Engineering researcher with a specialization in Communication Systems and three years of professional experience in cybersecurity engineering. My work sits at the intersection of wireless communications (mmWave/tetrahertz, ROSTBC, pilot decontamination, channel coding), applied cybersecurity, and machine learning.
 
-My current research interests include security of wireless sensing and IoT systems, adversarial machine learning against network and sensing-based models, AI/ML-driven security for wireless network systems, and physical-layer security mechanisms for next-generation wireless networks.
+My current research interests include security of AI, wireless sensing and IoT systems, adversarial machine learning against network and sensing-based models, AI/ML-driven security for wireless network systems, and physical-layer security mechanisms for next-generation wireless networks.
 
 ---
 
